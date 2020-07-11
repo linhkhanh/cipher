@@ -1,6 +1,6 @@
 {
-  "homepage": "http://linhkhanh.github.io/cipher",
-  "name": "my-app",
+  "homepage": "http://linhkhanh.github.io/cipher/",
+  "name": "cipher",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
